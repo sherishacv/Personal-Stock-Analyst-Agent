@@ -16,11 +16,6 @@
 
 Users can upload their stock transaction history, calculate portfolio performance using **FIFO accounting** and **XIRR**, visualize investment trends, and interact with an AI-powered financial assistant for portfolio analysis and recommendations.
 
-## 🎥 Demo Video
-
-Watch the complete project demonstration here:
-
-🔗 https://loom.com/share/66332cf5edc047caadfd637a92569e8d
 ---
 
 ## 🚀 Features
@@ -107,10 +102,6 @@ AI Financial Assistant
 ---
 
 ## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
 
 ```
 screenshots/
