@@ -101,16 +101,10 @@ AI Financial Assistant
 
 ---
 
-## 📸 Screenshots
+## Documentation
 
 ```
-screenshots/
-│
-├── home.png
-├── dashboard.png
-├── portfolio.png
-├── ai-chat.png
-└── performance.png
+Stock_Analyst_Agent_doc.pdf
 ```
 
 ---
