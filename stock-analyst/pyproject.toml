@@ -1,0 +1,15 @@
+[project]
+name = "stock-analyst"
+version = "0.1.0"
+description = "AI-powered personal stock portfolio analyst"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.40.0",
+    "yfinance>=0.2.50",
+    "groq>=0.13.0",
+    "pandas>=2.2.0",
+    "plotly>=5.24.0",
+    "numpy>=2.0.0",
+    "scipy>=1.14.0",
+    "python-dateutil>=2.9.0",
+]
